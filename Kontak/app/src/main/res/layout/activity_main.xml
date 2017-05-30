@@ -16,16 +16,7 @@
             android:paddingTop="50dp"
             android:paddingLeft="10dp"
             android:paddingRight="10dp">
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:background="#fff"
-                android:layout_margin="1dp"
-                android:text="Contact Person"
-                android:gravity="center"/>
-        </TableRow>
+
 
         <TableRow
             android:layout_width="match_parent"
@@ -34,35 +25,7 @@
             android:paddingRight="10dp"
             >
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:layout_margin="1dp"
-                android:background="#fff"
-                android:text="Nama Guru"
-                android:gravity="center"/>
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:background="#fff"
-                android:layout_margin="1dp"
-                android:text="No Telp/Hp"
-                android:gravity="center"/>
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:padding="10dp"
-                android:background="#fff"
-                android:layout_margin="1dp"
-                android:text="Jabatan"
-                android:gravity="center"/>
         </TableRow>
 
         <TableRow
